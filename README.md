@@ -1,3 +1,6 @@
+# LogisticsShippingRates
+IBM Full Stack Developer excersice on LogisticsShippingRates
+
 Please consider the below factors while contributing
 
 Code Style:
@@ -17,6 +20,3 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
-
-# LogisticsShippingRates
-IBM Full Stack Developer excersice on LogisticsShippingRates
